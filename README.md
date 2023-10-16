@@ -1,5 +1,7 @@
 ## Hi, glad to have you here in my GitHub. 👋
 
+![](https://komarev.com/ghpvc/?username=your-github-username&color=blue)
+
 My name is _Eduardo Morikuni Fortes_, but you can call me Ed.
 
 I have been studing fullstack web development since 2023 at TripleTen bootcamp and I can say that in each new subject, new language, new tecnology that a learn my facination for programming grows even more.
