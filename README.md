@@ -1,6 +1,6 @@
 ## Hi, glad to have you here in my GitHub. 👋
 
-![](https://komarev.com/ghpvc/?username=your-github-username&color=blue)
+![](https://komarev.com/ghpvc/?username=Edu-Fortes&color=blue)
 
 My name is _Eduardo Morikuni Fortes_, but you can call me Ed.
 
