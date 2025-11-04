@@ -1,47 +1,49 @@
-## Hi, glad to have you here in my GitHub. 👋
+# Hi there, I'm Eduardo Morikuni Fortes 👋
 
-![](https://komarev.com/ghpvc/?username=Edu-Fortes&color=blue)
+<br>
 
-My name is _Eduardo Morikuni Fortes_, but you can call me Ed.
+I'm a **System Analysis and Development student** from Brazil, passionate about building complete, full-stack web applications from idea to deployment.
 
-I have been studing fullstack web development since 2023 at TripleTen bootcamp and I can say that in each new subject, new language, new tecnology that a learn my facination for programming grows even more.
+My primary focus is on the **Angular, React (Next.js) and TypeScript** ecosystem, but I'm always eager to learn and apply new technologies. I'm not just interested in the final product; I'm driven by the process of building clean, maintainable code and creating a better **Developer Experience (DX)**. I believe the best tools are the ones that empower developers to build better and faster.
 
-Is amaizing the number of possibilitys that we con create or help to create. We can promote and help the change in world.
+<br>
 
-I invite you to know more about what I'm into scrooling down, once more be welcome...
+## 🔭 What I'm Currently Building
 
----
+Here are the projects I'm actively developing (make sure to pin these to your profile!):
 
-### :boom: About me
+* **[Family Finance App](https://github.com/Edu-Fortes/family-finance-app):** A full-stack app using **Next.js, TypeScript, and Supabase** to help families manage shared budgets. I'm also using **Docker** to run a local Supabase environment, which has been a fantastic way to improve my own development workflow and testing loop.
+* **[edufortes.dev (Developer Portal)](https://github.com/Edu-Fortes/edufortesdev-portifolio):** My personal **developer portal** and blog, built with **Next.js and Tailwind CSS**. This is where I share my projects and technical journey.
+* **[Angular E-Commerce](https://github.com/Edu-Fortes/angular-dio-blog):** A responsive e-commerce storefront built with **Angular and TypeScript**, demonstrating my versatility and ability to work with multiple modern frameworks.
 
-- :earth_americas: Lives in São Paulo state / Brazil
+<br>
 
-- :man_mechanic: Now a days works as Aircraft Maintenace Technician
+## 🛠️ My Tech Stack
 
-- :man_technologist: Hope to help people with their bussines trought web applications
+Here are some of the technologies and tools I work with:
 
-- :nerd_face: Improving my criativity throught graphic design and 3D modeling
+| Frontend | Backend & Database | Tools & DevOps |
+| :---: | :---: | :---: |
+| <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" /> | <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" /> | <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" /> |
+| <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" /> | <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" /> | <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /> |
+| <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" /> | <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" /> | <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /> |
+| <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" /> | <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" /> | <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" /> |
+| <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" /> | <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" /> | <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" /> |
 
-- :heart: My free time is dedicated to my greatest treasure, my family.
+<br>
 
----
+## 📫 How to Reach Me
 
-### :hammer_and_wrench: Languages and tools
+* **Portfolio:** `[Your live domain, e.g., https://edufortes.dev (if it's live)]`
+* **LinkedIn:** `[Your LinkedIn Profile URL (e.g., https://linkedin.com/in/your-username)]`
+* **Email:** `[Your Professional Email (e.g., mailto:your.email@example.com)]`
 
-<div>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/html5/html5-original.svg" alt="HTML 5" title="HTML 5" width=40 height=40>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/css3/css3-original.svg" alt="CSS 3" title="CSS 3" width=40 height=40>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScipt" width=40 height=40>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/nodejs/nodejs-original.svg" alt="Node.js" title="Node.js" width=40 height=40>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" title="MongoDB" width=40 height=40>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/express/express-original.svg" alt="Express.js" title="Express.js" width=40 height=40 style="background-color:#fff; border-radius:2px">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/react/react-original.svg" alt="React" title="React" width=40 height=40>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/git/git-original.svg" alt="Git" title="Git" width=40 height=40>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/github/github-original.svg" alt="GitHub" title="GitHub" width=40 height=40 style="background-color:#fff; border-radius:2px">
-</div>
+<br>
 
----
+## 📊 My GitHub Stats
 
-### :fire: My stats
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Edu-Fortes&theme=dark&mode=weekly)](https://git.io/streak-stats)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Edu-Fortes&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Edu's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edu-Fortes&layout=compact&theme=radical&hide_border=true&langs_count=6" alt="Top Languages" />
+</p>
+```
