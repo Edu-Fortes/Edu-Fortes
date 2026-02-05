@@ -10,10 +10,10 @@ My primary focus is on the **Angular, React (Next.js) and TypeScript** ecosystem
 
 ## 🔭 What I'm Currently Building
 
-Here are the projects I'm actively developing (make sure to pin these to your profile!):
+Here are the projects I'm actively developing:
 
-* **[Family Finance App](https://github.com/Edu-Fortes/family-finance-app):** A full-stack app using **Next.js, TypeScript, and Supabase** to help families manage shared budgets. I'm also using **Docker** to run a local Supabase environment, which has been a fantastic way to improve my own development workflow and testing loop.
-* **[edufortes.dev (Developer Portal)](https://github.com/Edu-Fortes/edufortesdev-portifolio):** My personal **developer portal** and blog, built with **Next.js and Tailwind CSS**. This is where I share my projects and technical journey.
+* **Family Finance App:** A full-stack app using **Next.js, TypeScript, and Supabase** to help families manage shared budgets. I'm also using **Docker** to run a local Supabase environment, which has been a fantastic way to improve my own development workflow and testing loop.
+* **edufortes.dev (Developer Portal):** My personal **developer portal** and blog, built with **Next.js and Tailwind CSS**. This is where I share my projects and technical journey.
 * **[Angular E-Commerce](https://github.com/Edu-Fortes/angular-dio-blog):** A responsive e-commerce storefront built with **Angular and TypeScript**, demonstrating my versatility and ability to work with multiple modern frameworks.
 
 <br>
@@ -29,14 +29,6 @@ Here are some of the technologies and tools I work with:
 | <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" /> | <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" /> | <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /> |
 | <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" /> | <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" /> | <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" /> |
 | <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" /> | <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" /> | <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" /> |
-
-<br>
-
-## 📫 How to Reach Me
-
-* **Portfolio:** `[Your live domain, e.g., https://edufortes.dev (if it's live)]`
-* **LinkedIn:** `[Your LinkedIn Profile URL (e.g., https://linkedin.com/in/your-username)]`
-* **Email:** `[Your Professional Email (e.g., mailto:your.email@example.com)]`
 
 <br>
 
